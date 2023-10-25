@@ -10,7 +10,7 @@ require (
 	github.com/pingcap/tidb-operator/pkg/client v1.6.0-alpha.8
 	go.uber.org/zap v1.23.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20230822172742-b8732ec3820d
-	google.golang.org/grpc v1.58.1
+	google.golang.org/grpc v1.58.3
 	google.golang.org/protobuf v1.31.0
 	k8s.io/api v0.23.17
 	k8s.io/apimachinery v0.23.17
@@ -61,11 +61,10 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170603005431-491d3605edfb // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
-	github.com/pingcap/TiProxy/lib v0.0.0-20230201020701-df06ec482c69 // indirect
 	github.com/pingcap/errors v0.11.4 // indirect
+	github.com/pingcap/tiproxy/lib v0.0.0-20230907130944-eb5b4b9c9e79 // indirect
 	github.com/prometheus/common v0.28.0 // indirect
 	github.com/prometheus/prometheus v1.8.2 // indirect
-	github.com/rogpeppe/go-internal v1.11.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.11 // indirect
